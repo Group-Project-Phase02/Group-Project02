@@ -403,6 +403,141 @@
                 "answer": false
             }
         ]
+    },
+    {
+        "id": 16,
+        "question": "Berapa harga soto babat + es teh manis di warteg belakang MCC?",
+        "image": "",
+        "answers": [
+            {
+                "option": "A",
+                "text": "17000",
+                "answer": false
+            },
+            {
+                "option": "B",
+                "text": "18000",
+                "answer": false
+            },
+            {
+                "option": "C",
+                "text": "19000",
+                "answer": true
+            },
+            {
+                "option": "D",
+                "text": "20000",
+                "answer": false
+            }
+        ]
+    },
+    {
+        "id": 16,
+        "question": "Berapa harga soto babat + es teh manis di warteg belakang MCC?",
+        "image": "",
+        "answers": [
+            {
+                "option": "A",
+                "text": "17000",
+                "answer": false
+            },
+            {
+                "option": "B",
+                "text": "18000",
+                "answer": false
+            },
+            {
+                "option": "C",
+                "text": "19000",
+                "answer": true
+            },
+            {
+                "option": "D",
+                "text": "20000",
+                "answer": false
+            }
+        ]
+    },
+    {
+        "id": 16,
+        "question": "Berapa harga soto babat + es teh manis di warteg belakang MCC?",
+        "image": "",
+        "answers": [
+            {
+                "option": "A",
+                "text": "17000",
+                "answer": false
+            },
+            {
+                "option": "B",
+                "text": "18000",
+                "answer": false
+            },
+            {
+                "option": "C",
+                "text": "19000",
+                "answer": true
+            },
+            {
+                "option": "D",
+                "text": "20000",
+                "answer": false
+            }
+        ]
+    },
+    {
+        "id": 16,
+        "question": "Berapa harga soto babat + es teh manis di warteg belakang MCC?",
+        "image": "",
+        "answers": [
+            {
+                "option": "A",
+                "text": "17000",
+                "answer": false
+            },
+            {
+                "option": "B",
+                "text": "18000",
+                "answer": false
+            },
+            {
+                "option": "C",
+                "text": "19000",
+                "answer": true
+            },
+            {
+                "option": "D",
+                "text": "20000",
+                "answer": false
+            }
+        ]
+    },
+    {
+        "id": 16,
+        "question": "Berapa harga soto babat + es teh manis di warteg belakang MCC?",
+        "image": "",
+        "answers": [
+            {
+                "option": "A",
+                "text": "17000",
+                "answer": false
+            },
+            {
+                "option": "B",
+                "text": "18000",
+                "answer": false
+            },
+            {
+                "option": "C",
+                "text": "19000",
+                "answer": true
+            },
+            {
+                "option": "D",
+                "text": "20000",
+                "answer": false
+            }
+        ]
     }
 ]
         

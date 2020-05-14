@@ -33,8 +33,9 @@ io.on("connection", (socket) => {
   })
 
   socket.on("nextQuestion", id => {
-    questionId = id
-    io.emit("nextQuestion", questionId)
+    let currentQuestion = index;
+    let nextQuestion = currentQuestion + 1;
+    io.emit("nextQuestion", nextQuestion);
   })
 });
 
