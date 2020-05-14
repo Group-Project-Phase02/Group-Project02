@@ -29,7 +29,7 @@ io.on("connection", (socket) => {
 
   socket.on("updateData", data => {
     dataUpdate.push(data)
-    socket.emit('updateData', updateData)
+    io.emit('updateData', updateData)
   })
 });
 

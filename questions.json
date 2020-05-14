@@ -298,109 +298,109 @@
     },
     {
         "id": 12,
-        "question": "Apa merk hand dryer di toilet MCC?",
-        "image": "",
+        "question": "Gambar diatas adalah peliharaan panji petualang yang pernah hits, siapakah namanya?",
+        "image": "https://asset-a.grid.id/crop/0x0:0x0/x/photo/2020/01/29/1682189012.jpg",
         "answers": [
             {
                 "option": "A",
-                "text": "LG",
-                "answer": false
+                "text": "Garaga",
+                "answer": true
             },
             {
                 "option": "B",
-                "text": "Phillips",
+                "text": "Manda",
                 "answer": false
             },
             {
                 "option": "C",
-                "text": "Honda",
+                "text": "Aoda",
                 "answer": false
             },
             {
                 "option": "D",
-                "text": "Mitsubishi",
-                "answer": true
+                "text": "Gamabunta",
+                "answer": false
             }
         ]
     },
     {
         "id": 13,
-        "question": "Apa merk hand dryer di toilet MCC? ",
+        "question": "Apa kepanjangan ARK?",
         "image": "",
         "answers": [
             {
                 "option": "A",
-                "text": "LG",
+                "text": "Afifa Rahma Kustanto",
                 "answer": false
             },
             {
                 "option": "B",
-                "text": "Phillips",
+                "text": "Auto Refrakto Keratometer",
                 "answer": false
             },
             {
                 "option": "C",
-                "text": "Honda",
+                "text": "Aku Rindu Kamu",
                 "answer": false
             },
             {
                 "option": "D",
-                "text": "Mitsubishi",
+                "text": "Anak Rantau Kesepian",
                 "answer": true
             }
         ]
     },
     {
         "id": 14,
-        "question": "Apa merk hand dryer di toilet MCC? ",
+        "question": "Manakah dibawah ini yang merupakan tempat terdekat dengan lokasi piscok (yang menurut saya enak) di MCC? (yg sering makan di warteg pasti tau)",
         "image": "",
         "answers": [
             {
                 "option": "A",
-                "text": "LG",
+                "text": "Dekat WTC",
                 "answer": false
             },
             {
                 "option": "B",
-                "text": "Phillips",
-                "answer": false
+                "text": "Dekat O k",
+                "answer": true
             },
             {
                 "option": "C",
-                "text": "Honda",
+                "text": "Dekat kang soto",
                 "answer": false
             },
             {
                 "option": "D",
-                "text": "Mitsubishi",
-                "answer": true
+                "text": "Dekat rumah makan padang",
+                "answer": false
             }
         ]
     },
     {
         "id": 15,
-        "question": "Apa merk hand dryer di toilet MCC? ",
+        "question": "Jika saya punya uang 15000, berapa piscok yang bisa saya beli di tukang piscok dekat circle k MCC?",
         "image": "",
         "answers": [
             {
                 "option": "A",
-                "text": "LG",
+                "text": "6",
                 "answer": false
             },
             {
                 "option": "B",
-                "text": "Phillips",
-                "answer": false
+                "text": "7",
+                "answer": true
             },
             {
                 "option": "C",
-                "text": "Honda",
+                "text": "8",
                 "answer": false
             },
             {
                 "option": "D",
-                "text": "Mitsubishi",
-                "answer": true
+                "text": "9",
+                "answer": false
             }
         ]
     }
