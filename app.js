@@ -27,12 +27,14 @@ io.on("connection", (socket) => {
     socket.emit("fetchQuestions", questions);
   });
 
-  socket.on("updateScore", (score) => {
-    socket.emit("updateScore", score);
+  socket.on("updateScore", (player, score) => {
+    //
   });
 
-  socket.on("nextQeustion", (id) => {
-    socket.emit("nextQuestion", id);
+  socket.on("nextQuestion", (index) => {
+    let currentQuestion = index;
+    let nextQuestion = currentQuestion + 1;
+    io.emit("nextQuestion", nextQuestion);
   });
 });
 
