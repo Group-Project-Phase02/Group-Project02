@@ -1,0 +1,29 @@
+{
+  "name": "group-project02-server",
+  "version": "1.0.0",
+  "description": "tebak.in server",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "dev": "set NODE_ENV=development&& nodemon app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Group-Project-Phase02/Group-Project02-Server.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Group-Project-Phase02/Group-Project02-Server/issues"
+  },
+  "homepage": "https://github.com/Group-Project-Phase02/Group-Project02-Server#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "socket.io": "^2.3.0"
+  },
+  "devDependencies": {
+    "dotenv": "^8.2.0"
+  }
+}
