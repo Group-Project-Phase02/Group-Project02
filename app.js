@@ -17,9 +17,9 @@ app.use(cors());
 const fs = require("fs");
 let rawQuestions = fs.readFileSync("questions.json");
 let questions = JSON.parse(rawQuestions);
-
 // ==================================================
-let updateData = []
+let updatedData = []
+let questionId = 1
 
 io.on("connection", (socket) => {
 
@@ -28,8 +28,13 @@ io.on("connection", (socket) => {
   });
 
   socket.on("updateData", data => {
-    dataUpdate.push(data)
+    updatedData.push(data)
     io.emit('updateData', updateData)
+  })
+
+  socket.on("nextQuestion", id => {
+    questionId = id
+    io.emit("nextQuestion", questionId)
   })
 });
 
