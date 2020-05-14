@@ -1,8 +1,8 @@
-const { Room } = require("../models");
+const { room } = require("../models");
 
 class RoomController {
   static findAll(cb) {
-    Room.findAll({
+    room.findAll({
       order: [["id", "ASC"]],
     })
       .then((rooms) => {
@@ -18,7 +18,7 @@ class RoomController {
       name: roomName,
     };
 
-    Room.create(values)
+    room.create(values)
       .then((createdRoom) => {
         cb(null, createdRoom.dataValues);
       })
