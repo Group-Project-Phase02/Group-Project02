@@ -18,8 +18,6 @@ const fs = require("fs");
 let rawQuestions = fs.readFileSync("questions.json");
 let questions = JSON.parse(rawQuestions);
 // ==================================================
-let updatedData = []
-let questionId = 1
 
 io.on("connection", (socket) => {
 
@@ -27,15 +25,13 @@ io.on("connection", (socket) => {
     socket.emit("fetchQuestions", questions);
   });
 
-  socket.on("updateData", data => {
-    updatedData.push(data)
-    io.emit('updateData', updateData)
-  })
+  socket.on("updateScore", (score) => {
+    socket.emit("updateScore", score);
+  });
 
-  socket.on("nextQuestion", id => {
-    questionId = id
-    io.emit("nextQuestion", questionId)
-  })
+  socket.on("nextQeustion", (id) => {
+    socket.emit("nextQuestion", id);
+  });
 });
 
 // ==================================================
