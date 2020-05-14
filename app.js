@@ -54,6 +54,15 @@ io.on("connection", (socket) => {
     let nextQuestion = currentQuestion + 1;
     io.emit("nextQuestion", nextQuestion);
   });
+
+  // ========
+  // Users
+  // ========
+  let users = [];
+  socket.on("fetchUsers", (data) => {
+    users.push(data);
+    io.emit("fetchUsers", users);
+  });
 });
 
 // ==================================================
