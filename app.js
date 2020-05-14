@@ -26,6 +26,14 @@ io.on("connection", (socket) => {
   socket.on("fetchQuestions", () => {
     socket.emit("fetchQuestions", questions);
   });
+
+  socket.on("updateScore", (score) => {
+    socket.emit("updateScore", score);
+  });
+
+  socket.on("nextQeustion", (id) => {
+    socket.emit("nextQuestion", id);
+  });
 });
 
 // ==================================================
