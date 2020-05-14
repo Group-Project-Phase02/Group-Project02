@@ -1,408 +1,407 @@
-[ 
-    {
-        "id": 1,
-        "question": "apa Kata/kalimat yang sering ka Arnold keluarkan waktu lecture?",
-        "image": "",
-        "answers": [
-            {
-                "option": "A",
-                "text": "Tolonglah",
-                "answer": false
-            },
-            {
-                "option": "B",
-                "text": "come on guys!",
-                "answer": false
-            },
-            {
-                "option": "C",
-                "text": "EZ PIZI doriroti stroberi",
-                "answer": true
-            },
-            {
-                "option": "D",
-                "text": "pika-black-widdow",
-                "answer": false
-            }
-        ]
-    },
-    {
-        "id": 2,
-        "question": "Siapa orang dibalik nama ark-sama/ark-hime sewaktu kahoot phase 1?",
-        "image": "",
-        "answers": [
-            {
-                "option": "A",
-                "text": "Hafidh",
-                "answer": false
-            },
-            {
-                "option": "B",
-                "text": "Haqqi",
-                "answer": false
-            },
-            {
-                "option": "C",
-                "text": "Yodi",
-                "answer": false
-            },
-            {
-                "option": "D",
-                "text": "Semua Salah",
-                "answer": true
-            }
-        ]
-    },
-    {
-        "id": 3,
-        "question": "Apa judul lagu lift MCC?",
-        "image": "",
-        "answers": [
-            {
-                "option": "A",
-                "text": "The Best",
-                "answer": true
-            },
-            {
-                "option": "B",
-                "text": "Be Okay",
-                "answer": false
-            },
-            {
-                "option": "C",
-                "text": "My Best",
-                "answer": false
-            },
-            {
-                "option": "D",
-                "text": "Best of the Best",
-                "answer": false
-            }
-        ]
-    },
-    {
-        "id": 4,
-        "question": "Siapakah penyanyi dari lagu yang ada di lift MCC?",
-        "image": "",
-        "answers": [
-            {
-                "option": "A",
-                "text": "Christina Aguilera",
-                "answer": false
-            },
-            {
-                "option": "B",
-                "text": "Tina Turner",
-                "answer": true
-            },
-            {
-                "option": "C",
-                "text": "Alicia keys",
-                "answer": false
-            },
-            {
-                "option": "D",
-                "text": "Tina Turnov",
-                "answer": false
-            }
-        ]
-    },
-    {
-        "id": 5,
-        "question": "Apa nama coffee shop yang ada di lantai dasar MCC?",
-        "image": "",
-        "answers": [
-            {
-                "option": "A",
-                "text": "Fore Coffee",
-                "answer": true
-            },
-            {
-                "option": "B",
-                "text": "Janji Jiwa",
-                "answer": false
-            },
-            {
-                "option": "C",
-                "text": "Kopi Kenangan",
-                "answer": false
-            },
-            {
-                "option": "D",
-                "text": "Cappuccino Cincau coffee",
-                "answer": false
-            }
-        ]
-    },
-    {
-        "id": 6,
-        "question": "Gambar diatas ada di MCC lantai berapa ya?",
-        "image": "https://blog.go-work.com/wp-content/uploads/2019/01/Coworking-Space-Jakarta.jpg",
-        "answers": [
-            {
-                "option": "A",
-                "text": "36",
-                "answer": false
-            },
-            {
-                "option": "B",
-                "text": "37",
-                "answer": false
-            },
-            {
-                "option": "C",
-                "text": "38",
-                "answer": true
-            },
-            {
-                "option": "D",
-                "text": "39",
-                "answer": false
-            }
-        ]
-    },
-    {
-        "id": 7,
-        "question": "berapa hasil selisih antara jumlah lantai di gedung MCC dan lantai tempat Hacktiv8 berada?",
-        "image": "",
-        "answers": [
-            {
-                "option": "A",
-                "text": "21",
-                "answer": false
-            },
-            {
-                "option": "B",
-                "text": "24",
-                "answer": false
-            },
-            {
-                "option": "C",
-                "text": "27",
-                "answer": true
-            },
-            {
-                "option": "D",
-                "text": "30",
-                "answer": false
-            }
-        ]
-    },
-    {
-        "id": 8,
-        "question": "Apa kata yang pernah diucapkan ka arnold waktu lecture vue tema pikachu?",
-        "image": "",
-        "answers": [
-            {
-                "option": "A",
-                "text": "yuhu",
-                "answer": false
-            },
-            {
-                "option": "B",
-                "text": "asik",
-                "answer": false
-            },
-            {
-                "option": "C",
-                "text": "dor dor",
-                "answer": true
-            },
-            {
-                "option": "D",
-                "text": "uhuy",
-                "answer": false
-            }
-        ]
-    },
-    {
-        "id": 9,
-        "question": "'Other deck is on service' dimana kalimat tersebut biasa di lihat?",
-        "image": "",
-        "answers": [
-            {
-                "option": "A",
-                "text": "MRT",
-                "answer": false
-            },
-            {
-                "option": "B",
-                "text": "MCC",
-                "answer": false
-            },
-            {
-                "option": "C",
-                "text": "lift",
-                "answer": true
-            },
-            {
-                "option": "D",
-                "text": "console.log(`${C} ${B}`)",
-                "answer": false
-            }
-        ]
-    },
-    {
-        "id": 10,
-        "question": "Apa kata yang pernah diucapkan ka arnold waktu lecture vue tema pikachu?",
-        "image": "",
-        "answers": [
-            {
-                "option": "A",
-                "text": "mantul nih",
-                "answer": false
-            },
-            {
-                "option": "B",
-                "text": "alright",
-                "answer": false
-            },
-            {
-                "option": "C",
-                "text": "mungkin dia capek",
-                "answer": true
-            },
-            {
-                "option": "D",
-                "text": "vue susah nih",
-                "answer": false
-            }
-        ]
-    },
-    {
-        "id": 11,
-        "question": "Apa merk hand dryer di toilet MCC? ",
-        "image": "",
-        "answers": [
-            {
-                "option": "A",
-                "text": "LG",
-                "answer": false
-            },
-            {
-                "option": "B",
-                "text": "Phillips",
-                "answer": false
-            },
-            {
-                "option": "C",
-                "text": "Honda",
-                "answer": false
-            },
-            {
-                "option": "D",
-                "text": "Mitsubishi",
-                "answer": true
-            }
-        ]
-    },
-    {
-        "id": 12,
-        "question": "Apa merk hand dryer di toilet MCC?",
-        "image": "",
-        "answers": [
-            {
-                "option": "A",
-                "text": "LG",
-                "answer": false
-            },
-            {
-                "option": "B",
-                "text": "Phillips",
-                "answer": false
-            },
-            {
-                "option": "C",
-                "text": "Honda",
-                "answer": false
-            },
-            {
-                "option": "D",
-                "text": "Mitsubishi",
-                "answer": true
-            }
-        ]
-    },
-    {
-        "id": 13,
-        "question": "Apa merk hand dryer di toilet MCC? ",
-        "image": "",
-        "answers": [
-            {
-                "option": "A",
-                "text": "LG",
-                "answer": false
-            },
-            {
-                "option": "B",
-                "text": "Phillips",
-                "answer": false
-            },
-            {
-                "option": "C",
-                "text": "Honda",
-                "answer": false
-            },
-            {
-                "option": "D",
-                "text": "Mitsubishi",
-                "answer": true
-            }
-        ]
-    },
-    {
-        "id": 14,
-        "question": "Apa merk hand dryer di toilet MCC? ",
-        "image": "",
-        "answers": [
-            {
-                "option": "A",
-                "text": "LG",
-                "answer": false
-            },
-            {
-                "option": "B",
-                "text": "Phillips",
-                "answer": false
-            },
-            {
-                "option": "C",
-                "text": "Honda",
-                "answer": false
-            },
-            {
-                "option": "D",
-                "text": "Mitsubishi",
-                "answer": true
-            }
-        ]
-    },
-    {
-        "id": 15,
-        "question": "Apa merk hand dryer di toilet MCC? ",
-        "image": "",
-        "answers": [
-            {
-                "option": "A",
-                "text": "LG",
-                "answer": false
-            },
-            {
-                "option": "B",
-                "text": "Phillips",
-                "answer": false
-            },
-            {
-                "option": "C",
-                "text": "Honda",
-                "answer": false
-            },
-            {
-                "option": "D",
-                "text": "Mitsubishi",
-                "answer": true
-            }
-        ]
-    }
+[
+  {
+    "id": 1,
+    "question": "apa Kata/kalimat yang sering ka Arnold keluarkan waktu lecture?",
+    "image": "",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Tolonglah",
+        "answer": false
+      },
+      {
+        "option": "B",
+        "text": "come on guys!",
+        "answer": false
+      },
+      {
+        "option": "C",
+        "text": "EZ PIZI doriroti stroberi",
+        "answer": true
+      },
+      {
+        "option": "D",
+        "text": "pika-black-widdow",
+        "answer": false
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "question": "Siapa orang dibalik nama ark-sama/ark-hime sewaktu kahoot phase 1?",
+    "image": "",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Hafidh",
+        "answer": false
+      },
+      {
+        "option": "B",
+        "text": "Haqqi",
+        "answer": false
+      },
+      {
+        "option": "C",
+        "text": "Yodi",
+        "answer": false
+      },
+      {
+        "option": "D",
+        "text": "Semua Salah",
+        "answer": true
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "question": "Apa judul lagu lift MCC?",
+    "image": "",
+    "answers": [
+      {
+        "option": "A",
+        "text": "The Best",
+        "answer": true
+      },
+      {
+        "option": "B",
+        "text": "Be Okay",
+        "answer": false
+      },
+      {
+        "option": "C",
+        "text": "My Best",
+        "answer": false
+      },
+      {
+        "option": "D",
+        "text": "Best of the Best",
+        "answer": false
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "question": "Siapakah penyanyi dari lagu yang ada di lift MCC?",
+    "image": "",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Christina Aguilera",
+        "answer": false
+      },
+      {
+        "option": "B",
+        "text": "Tina Turner",
+        "answer": true
+      },
+      {
+        "option": "C",
+        "text": "Alicia keys",
+        "answer": false
+      },
+      {
+        "option": "D",
+        "text": "Tina Turnov",
+        "answer": false
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "question": "Apa nama coffee shop yang ada di lantai dasar MCC?",
+    "image": "",
+    "answers": [
+      {
+        "option": "A",
+        "text": "Fore Coffee",
+        "answer": true
+      },
+      {
+        "option": "B",
+        "text": "Janji Jiwa",
+        "answer": false
+      },
+      {
+        "option": "C",
+        "text": "Kopi Kenangan",
+        "answer": false
+      },
+      {
+        "option": "D",
+        "text": "Cappuccino Cincau coffee",
+        "answer": false
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "question": "Gambar diatas ada di MCC lantai berapa ya?",
+    "image": "https://blog.go-work.com/wp-content/uploads/2019/01/Coworking-Space-Jakarta.jpg",
+    "answers": [
+      {
+        "option": "A",
+        "text": "36",
+        "answer": false
+      },
+      {
+        "option": "B",
+        "text": "37",
+        "answer": false
+      },
+      {
+        "option": "C",
+        "text": "38",
+        "answer": true
+      },
+      {
+        "option": "D",
+        "text": "39",
+        "answer": false
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "question": "berapa hasil selisih antara jumlah lantai di gedung MCC dan lantai tempat Hacktiv8 berada?",
+    "image": "",
+    "answers": [
+      {
+        "option": "A",
+        "text": "21",
+        "answer": false
+      },
+      {
+        "option": "B",
+        "text": "24",
+        "answer": false
+      },
+      {
+        "option": "C",
+        "text": "27",
+        "answer": true
+      },
+      {
+        "option": "D",
+        "text": "30",
+        "answer": false
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "question": "Apa kata yang pernah diucapkan ka arnold waktu lecture vue tema pikachu?",
+    "image": "",
+    "answers": [
+      {
+        "option": "A",
+        "text": "yuhu",
+        "answer": false
+      },
+      {
+        "option": "B",
+        "text": "asik",
+        "answer": false
+      },
+      {
+        "option": "C",
+        "text": "dor dor",
+        "answer": true
+      },
+      {
+        "option": "D",
+        "text": "uhuy",
+        "answer": false
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "question": "'Other deck is on service' dimana kalimat tersebut biasa di lihat?",
+    "image": "",
+    "answers": [
+      {
+        "option": "A",
+        "text": "MRT",
+        "answer": false
+      },
+      {
+        "option": "B",
+        "text": "MCC",
+        "answer": false
+      },
+      {
+        "option": "C",
+        "text": "lift",
+        "answer": true
+      },
+      {
+        "option": "D",
+        "text": "console.log(`${C} ${B}`)",
+        "answer": false
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "question": "Apa kata yang pernah diucapkan ka arnold waktu lecture vue tema pikachu?",
+    "image": "",
+    "answers": [
+      {
+        "option": "A",
+        "text": "mantul nih",
+        "answer": false
+      },
+      {
+        "option": "B",
+        "text": "alright",
+        "answer": false
+      },
+      {
+        "option": "C",
+        "text": "mungkin dia capek",
+        "answer": true
+      },
+      {
+        "option": "D",
+        "text": "vue susah nih",
+        "answer": false
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "question": "Apa merk hand dryer di toilet MCC? ",
+    "image": "",
+    "answers": [
+      {
+        "option": "A",
+        "text": "LG",
+        "answer": false
+      },
+      {
+        "option": "B",
+        "text": "Phillips",
+        "answer": false
+      },
+      {
+        "option": "C",
+        "text": "Honda",
+        "answer": false
+      },
+      {
+        "option": "D",
+        "text": "Mitsubishi",
+        "answer": true
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "question": "Apa merk hand dryer di toilet MCC?",
+    "image": "",
+    "answers": [
+      {
+        "option": "A",
+        "text": "LG",
+        "answer": false
+      },
+      {
+        "option": "B",
+        "text": "Phillips",
+        "answer": false
+      },
+      {
+        "option": "C",
+        "text": "Honda",
+        "answer": false
+      },
+      {
+        "option": "D",
+        "text": "Mitsubishi",
+        "answer": true
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "question": "Apa merk hand dryer di toilet MCC? ",
+    "image": "",
+    "answers": [
+      {
+        "option": "A",
+        "text": "LG",
+        "answer": false
+      },
+      {
+        "option": "B",
+        "text": "Phillips",
+        "answer": false
+      },
+      {
+        "option": "C",
+        "text": "Honda",
+        "answer": false
+      },
+      {
+        "option": "D",
+        "text": "Mitsubishi",
+        "answer": true
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "question": "Apa merk hand dryer di toilet MCC? ",
+    "image": "",
+    "answers": [
+      {
+        "option": "A",
+        "text": "LG",
+        "answer": false
+      },
+      {
+        "option": "B",
+        "text": "Phillips",
+        "answer": false
+      },
+      {
+        "option": "C",
+        "text": "Honda",
+        "answer": false
+      },
+      {
+        "option": "D",
+        "text": "Mitsubishi",
+        "answer": true
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "question": "Apa merk hand dryer di toilet MCC? ",
+    "image": "",
+    "answers": [
+      {
+        "option": "A",
+        "text": "LG",
+        "answer": false
+      },
+      {
+        "option": "B",
+        "text": "Phillips",
+        "answer": false
+      },
+      {
+        "option": "C",
+        "text": "Honda",
+        "answer": false
+      },
+      {
+        "option": "D",
+        "text": "Mitsubishi",
+        "answer": true
+      }
+    ]
+  }
 ]
-        
