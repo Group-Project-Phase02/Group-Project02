@@ -21,35 +21,35 @@
             },
             {
                 "option": "D",
-                "text": "pika-black-widdow",
+                "text": "pika-thanos",
                 "answer": false
             }
         ]
     },
     {
         "id": 2,
-        "question": "Siapa orang dibalik nama ark-sama/ark-hime sewaktu kahoot phase 1?",
+        "question": "Jika saya punya uang 15000, berapa piscok yang bisa saya beli di tukang piscok dekat circle k MCC?",
         "image": "",
         "answers": [
             {
                 "option": "A",
-                "text": "Hafidh",
+                "text": "6",
                 "answer": false
             },
             {
                 "option": "B",
-                "text": "Haqqi",
-                "answer": false
+                "text": "7",
+                "answer": true
             },
             {
                 "option": "C",
-                "text": "Yodi",
+                "text": "8",
                 "answer": false
             },
             {
                 "option": "D",
-                "text": "Semua Salah",
-                "answer": true
+                "text": "9",
+                "answer": false
             }
         ]
     },
@@ -82,54 +82,54 @@
     },
     {
         "id": 4,
-        "question": "Siapakah penyanyi dari lagu yang ada di lift MCC?",
-        "image": "",
+        "question": "Berapa Harga Iphone 11 pro max(di ibox) mod 7?",
+        "image": "https://ibox.co.id/media/catalog/product/cache/3/image/9df78eab33525d08d6e5fb8d27136e95/i/p/iphone-11-pro-max-midnight-green_3.png",
         "answers": [
             {
                 "option": "A",
-                "text": "Christina Aguilera",
-                "answer": false
-            },
-            {
-                "option": "B",
-                "text": "Tina Turner",
+                "text": "4",
                 "answer": true
             },
             {
+                "option": "B",
+                "text": "2",
+                "answer": false
+            },
+            {
                 "option": "C",
-                "text": "Alicia keys",
+                "text": "6",
                 "answer": false
             },
             {
                 "option": "D",
-                "text": "Tina Turnov",
+                "text": "0",
                 "answer": false
             }
         ]
     },
     {
         "id": 5,
-        "question": "Apa nama coffee shop yang ada di lantai dasar MCC?",
-        "image": "",
+        "question": "Terdapat 2 stasiun MRT terdekat dengan gedung MCC yaitu stasiun Bendungan Hilir dan Setiabudi Astra. Berapa estimasi waktu yang dibutuhkan jika kita jalan dari stasiun MRT istora mandiri ke gedung MCC?",
+        "image": "https://image.shutterstock.com/image-photo/jakarta-indonesia-sept1-2019-entrance-260nw-1498812722.jpg",
         "answers": [
             {
                 "option": "A",
-                "text": "Fore Coffee",
-                "answer": true
+                "text": "kira-kira 1 menit",
+                "answer": false
             },
             {
                 "option": "B",
-                "text": "Janji Jiwa",
+                "text": "kira-kira 12 menit",
                 "answer": false
             },
             {
                 "option": "C",
-                "text": "Kopi Kenangan",
-                "answer": false
+                "text": "kira-kira 23 menit",
+                "answer": true
             },
             {
                 "option": "D",
-                "text": "Cappuccino Cincau coffee",
+                "text": "kira-kira 34 menit",
                 "answer": false
             }
         ]
@@ -163,114 +163,60 @@
     },
     {
         "id": 7,
-        "question": "berapa hasil selisih antara jumlah lantai di gedung MCC dan lantai tempat Hacktiv8 berada?",
-        "image": "",
+        "question": "Dibawah ini manakah stasiun yang terdekat nomor 3 dengan gedung MCC?",
+        "image": "https://image.shutterstock.com/image-photo/jakarta-indonesia-sept1-2019-entrance-260nw-1498812722.jpg",
         "answers": [
             {
                 "option": "A",
-                "text": "21",
+                "text": "stasiun Bendungan Hilir",
                 "answer": false
             },
             {
                 "option": "B",
-                "text": "24",
+                "text": "Stasiun Dukuh Atas",
                 "answer": false
             },
             {
                 "option": "C",
-                "text": "27",
-                "answer": true
+                "text": "Stasiun Istora Mandiri",
+                "answer": false
             },
             {
                 "option": "D",
-                "text": "30",
-                "answer": false
+                "text": "Stasiun Sudirman",
+                "answer": true
             }
         ]
     },
     {
         "id": 8,
-        "question": "Apa kata yang pernah diucapkan ka arnold waktu lecture vue tema pikachu?",
+        "question": "Berapa harga soto babat + es teh manis di warteg belakang MCC?",
         "image": "",
         "answers": [
             {
                 "option": "A",
-                "text": "yuhu",
+                "text": "17000",
                 "answer": false
             },
             {
                 "option": "B",
-                "text": "asik",
+                "text": "18000",
                 "answer": false
             },
             {
                 "option": "C",
-                "text": "dor dor",
+                "text": "19000",
                 "answer": true
             },
             {
                 "option": "D",
-                "text": "uhuy",
+                "text": "20000",
                 "answer": false
             }
         ]
     },
     {
         "id": 9,
-        "question": "'Other deck is on service' dimana kalimat tersebut biasa di lihat?",
-        "image": "",
-        "answers": [
-            {
-                "option": "A",
-                "text": "MRT",
-                "answer": false
-            },
-            {
-                "option": "B",
-                "text": "MCC",
-                "answer": false
-            },
-            {
-                "option": "C",
-                "text": "lift",
-                "answer": true
-            },
-            {
-                "option": "D",
-                "text": "console.log(`${C} ${B}`)",
-                "answer": false
-            }
-        ]
-    },
-    {
-        "id": 10,
-        "question": "Apa kata yang pernah diucapkan ka arnold waktu lecture vue tema pikachu?",
-        "image": "",
-        "answers": [
-            {
-                "option": "A",
-                "text": "mantul nih",
-                "answer": false
-            },
-            {
-                "option": "B",
-                "text": "alright",
-                "answer": false
-            },
-            {
-                "option": "C",
-                "text": "mungkin dia capek",
-                "answer": true
-            },
-            {
-                "option": "D",
-                "text": "vue susah nih",
-                "answer": false
-            }
-        ]
-    },
-    {
-        "id": 11,
         "question": "Apa merk hand dryer di toilet MCC? ",
         "image": "",
         "answers": [
@@ -297,7 +243,7 @@
         ]
     },
     {
-        "id": 12,
+        "id": 10,
         "question": "Gambar diatas adalah peliharaan panji petualang yang pernah hits, siapakah namanya?",
         "image": "https://asset-a.grid.id/crop/0x0:0x0/x/photo/2020/01/29/1682189012.jpg",
         "answers": [
@@ -319,6 +265,60 @@
             {
                 "option": "D",
                 "text": "Gamabunta",
+                "answer": false
+            }
+        ]
+    },
+    {
+        "id": 11,
+        "question": "'Other deck is on service' dimana kalimat tersebut biasa di lihat?",
+        "image": "",
+        "answers": [
+            {
+                "option": "A",
+                "text": "MRT",
+                "answer": false
+            },
+            {
+                "option": "B",
+                "text": "MCC",
+                "answer": false
+            },
+            {
+                "option": "C",
+                "text": "lift",
+                "answer": false
+            },
+            {
+                "option": "D",
+                "text": "console.log(`${C} ${B}`)",
+                "answer": true
+            }
+        ]
+    },
+    {
+        "id": 12,
+        "question": "Apa kata yang pernah diucapkan ka arnold waktu lecture vue component tema pikachu?",
+        "image": "",
+        "answers": [
+            {
+                "option": "A",
+                "text": "mantul nih",
+                "answer": false
+            },
+            {
+                "option": "B",
+                "text": "alright",
+                "answer": false
+            },
+            {
+                "option": "C",
+                "text": "mungkin dia capek",
+                "answer": true
+            },
+            {
+                "option": "D",
+                "text": "vue susah nih",
                 "answer": false
             }
         ]
@@ -379,27 +379,162 @@
     },
     {
         "id": 15,
-        "question": "Jika saya punya uang 15000, berapa piscok yang bisa saya beli di tukang piscok dekat circle k MCC?",
+        "question": "Siapa orang dibalik nama ark-sama/ark-hime sewaktu kahoot phase 1?",
         "image": "",
         "answers": [
             {
                 "option": "A",
-                "text": "6",
+                "text": "Hafidh",
                 "answer": false
             },
             {
                 "option": "B",
-                "text": "7",
-                "answer": true
+                "text": "Haqqi",
+                "answer": false
             },
             {
                 "option": "C",
-                "text": "8",
+                "text": "Yodi",
                 "answer": false
             },
             {
                 "option": "D",
-                "text": "9",
+                "text": "Semua Salah",
+                "answer": true
+            }
+        ]
+    },
+    {
+        "id": 16,
+        "question": "Apa kata yang pernah diucapkan ka arnold waktu lecture vue component tema pikachu?",
+        "image": "",
+        "answers": [
+            {
+                "option": "A",
+                "text": "yuhu",
+                "answer": false
+            },
+            {
+                "option": "B",
+                "text": "asik",
+                "answer": false
+            },
+            {
+                "option": "C",
+                "text": "dor dor",
+                "answer": true
+            },
+            {
+                "option": "D",
+                "text": "uhuy",
+                "answer": false
+            }
+        ]
+    },
+    {
+        "id": 17,
+        "question": "Apa nama username discord yudha 1?",
+        "image": "",
+        "answers": [
+            {
+                "option": "A",
+                "text": "yudhaaaaw-YAW",
+                "answer": false
+            },
+            {
+                "option": "B",
+                "text": "yudhaaw96-YAW",
+                "answer": true
+            },
+            {
+                "option": "C",
+                "text": "yudh4aw96-YAW",
+                "answer": true
+            },
+            {
+                "option": "D",
+                "text": "yudhaaw96-YAW",
+                "answer": false
+            }
+        ]
+    },
+    {
+        "id": 18,
+        "question": "Apa nama coffee shop yang ada di lantai dasar MCC?",
+        "image": "",
+        "answers": [
+            {
+                "option": "A",
+                "text": "Fore",
+                "answer": true
+            },
+            {
+                "option": "B",
+                "text": "Janji Jiwa",
+                "answer": false
+            },
+            {
+                "option": "C",
+                "text": "Kopi Kenangan",
+                "answer": false
+            },
+            {
+                "option": "D",
+                "text": "Cappuccino Cincau coffee",
+                "answer": false
+            }
+        ]
+    },
+    {
+        "id": 19,
+        "question": "berapa hasil selisih antara jumlah lantai di gedung MCC dan lantai tempat Hacktiv8 berada?",
+        "image": "",
+        "answers": [
+            {
+                "option": "A",
+                "text": "21",
+                "answer": false
+            },
+            {
+                "option": "B",
+                "text": "24",
+                "answer": false
+            },
+            {
+                "option": "C",
+                "text": "27",
+                "answer": true
+            },
+            {
+                "option": "D",
+                "text": "30",
+                "answer": false
+            }
+        ]
+    },
+    {
+        "id": 20,
+        "question": "Siapakah penyanyi dari lagu yang ada di lift MCC?",
+        "image": "",
+        "answers": [
+            {
+                "option": "A",
+                "text": "Christina Aguilera",
+                "answer": false
+            },
+            {
+                "option": "B",
+                "text": "Tina Turner",
+                "answer": true
+            },
+            {
+                "option": "C",
+                "text": "Alicia keys",
+                "answer": false
+            },
+            {
+                "option": "D",
+                "text": "Tina Turnov",
                 "answer": false
             }
         ]

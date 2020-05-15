@@ -19,7 +19,8 @@ let rawQuestions = fs.readFileSync("questions.json");
 let questions = JSON.parse(rawQuestions);
 
 const RoomController = require("./controllers/room");
-
+let scores = [];
+let users = [];
 // ==================================================
 
 io.on("connection", (socket) => {
@@ -46,14 +47,13 @@ io.on("connection", (socket) => {
   });
 
   socket.on("updateScore", (playerData) => {
-    let scores = []
     if (playerData) {
       scores.push({
         name: playerData.name,
-        score: playerData.totalScore
-      })
+        score: playerData.totalScore,
+      });
     }
-    io.emit('updateScore', scores)
+    io.emit("updateScore", scores);
   });
 
   socket.on("nextQuestion", (index) => {
@@ -65,7 +65,7 @@ io.on("connection", (socket) => {
   // ========
   // USERS
   // ========
-  let users = [];
+
   socket.on("fetchUsers", (data) => {
     if (data) {
       users.push({
