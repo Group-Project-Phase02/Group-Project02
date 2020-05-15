@@ -45,8 +45,15 @@ io.on("connection", (socket) => {
     socket.emit("fetchQuestions", questions);
   });
 
-  socket.on("updateScore", (player, score) => {
-    //
+  socket.on("updateScore", (playerData) => {
+    let scores = []
+    if (playerData) {
+      scores.push({
+        name: playerData.name,
+        score: playerData.totalScore
+      })
+    }
+    io.emit('updateScore', scores)
   });
 
   socket.on("nextQuestion", (index) => {
