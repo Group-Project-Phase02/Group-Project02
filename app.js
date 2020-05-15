@@ -94,6 +94,7 @@ io.on("connection", (socket) => {
 
   socket.on("backToHomeTogether", (data) => {
     users = [];
+    scores = [];
     io.emit("backToHomeTogether", true);
   });
 });
