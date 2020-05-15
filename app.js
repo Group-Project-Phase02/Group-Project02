@@ -56,12 +56,38 @@ io.on("connection", (socket) => {
   });
 
   // ========
-  // Users
+  // USERS
   // ========
   let users = [];
   socket.on("fetchUsers", (data) => {
-    users.push(data);
+    if (data) {
+      users.push({
+        name: data,
+        score: 0,
+      });
+    }
     io.emit("fetchUsers", users);
+  });
+
+  socket.on("dashboardTogether", (data) => {
+    socket.broadcast.emit("dashboardTogether", true);
+  });
+
+  socket.on("startTogether", (data) => {
+    socket.broadcast.emit("startTogether", true);
+  });
+
+  socket.on("changePageTogether", (data) => {
+    socket.broadcast.emit("changePageTogether", true);
+  });
+
+  socket.on("showResultTogether", (data) => {
+    io.emit("showResultTogether", true);
+  });
+
+  socket.on("backToHomeTogether", (data) => {
+    users = [];
+    io.emit("backToHomeTogether", true);
   });
 });
 
