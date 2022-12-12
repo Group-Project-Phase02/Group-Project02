@@ -20,7 +20,7 @@
   "homepage": "https://github.com/Group-Project-Phase02/Group-Project02-Server#readme",
   "dependencies": {
     "cors": "^2.8.5",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "pg": "^8.2.0",
     "sequelize": "^5.21.9",
     "sequelize-cli": "^5.5.1",
